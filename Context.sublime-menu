@@ -1,0 +1,26 @@
+[
+    {
+        "id": "stytrans",
+        "caption": "Stytrans",
+        "children":
+        [
+
+            {
+                "caption": "to_camel_case_upper",
+                "command": "stytrans", "args": {"style_name": "to_camel_case_upper"}
+            },
+            {
+                "caption": "to_cammel_case_lower",
+                "command": "stytrans", "args": {"style_name": "to_cammel_case_lower"}
+            },
+            {
+                "caption": "to_underscore_notation_upper",
+                "command": "stytrans", "args": {"style_name": "to_underscore_notation_upper"}
+            },
+            {
+                "caption": "to_underscore_notation_lower",
+                "command": "stytrans", "args": {"style_name": "to_underscore_notation_lower"}
+            },
+        ]
+    }
+]
